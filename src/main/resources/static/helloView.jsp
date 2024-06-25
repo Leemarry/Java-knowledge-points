@@ -15,6 +15,6 @@
 <p>This is a JSP page.</p>
 <%-- JSP表达式标签用于输出Java变量的值 --%>
 <%-- 假设你有一个在后台设置的名为"message"的属性，你可以这样输出它 --%>
-<p><%= request.getAttribute("message") %></p>
+
 </body>
 </html>

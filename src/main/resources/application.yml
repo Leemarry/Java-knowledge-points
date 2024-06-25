@@ -48,3 +48,10 @@ oss:
 mybatis:
   mapper-locations: "classpath:mappers/*xml"
   type-aliases-package: "com.example.javaknowledge1.mybatis.entity"
+
+
+file:
+  path:
+    windows: F:\Minio\NoMinio\idea_home\ # windows下路径
+    linux: /Users/lhk/Desktop/zhzf/pic/ #  linux下路径
+    common: /Users/lhk/Desktop/zhzf/pic/ #  通用路径
